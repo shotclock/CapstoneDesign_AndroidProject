@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CapstoneDesign_AndroidProject.iml" filepath="$PROJECT_DIR$/CapstoneDesign_AndroidProject.iml" />
+      <module fileurl="file://C:\Users\jsb\AndroidStudioProjects\CapstoneDesign_AndroidProject3\CapstoneDesign_AndroidProject.iml" filepath="C:\Users\jsb\AndroidStudioProjects\CapstoneDesign_AndroidProject3\CapstoneDesign_AndroidProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CapstoneDesign_AndroidProject3.iml" filepath="$PROJECT_DIR$/.idea/CapstoneDesign_AndroidProject3.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\jsb\AndroidStudioProjects\CapstoneDesign_AndroidProject3\app\app.iml" filepath="C:\Users\jsb\AndroidStudioProjects\CapstoneDesign_AndroidProject3\app\app.iml" />
     </modules>
   </component>
 </project>
